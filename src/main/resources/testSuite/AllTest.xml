@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AllTest">
+  <test thread-count="5" name="LoginTest">
+    <classes>
+      <class name="com.uiFrameworkNew.companyName.projectName.testScripts.LoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+  <test thread-count="5" name="RegistrationTest">
+    <classes>
+      <class name="com.uiFrameworkNew.companyName.projectName.testScripts.RegistrationTest"/>
+    </classes>
+  </test> 
+  <test thread-count="5" name="BasicShoppingTest">
+    <classes>
+      <class name="com.uiFrameworkNew.companyName.projectName.testScripts.BasicShoppingTest"/>
+    </classes>
+  </test> 
+</suite> <!-- Suite -->

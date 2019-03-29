@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<a href='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_07_59_37.png'><img src='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_07_59_37.png'height='100' width='100'></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_07_59_57.png'><img src='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_07_59_57.png'height='100' width='100'></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_23.png'><img src='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_23.png'height='100' width='100'></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_31.png'><img src='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_31.png'height='100' width='100'></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_35.png'><img src='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_35.png'height='100' width='100'></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_42.png'><img src='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_42.png'height='100' width='100'></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_45.png'><img src='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_45.png'height='100' width='100'></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_47.png'><img src='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_47.png'height='100' width='100'></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_49.png'><img src='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_49.png'height='100' width='100'></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_51.png'><img src='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_51.png'height='100' width='100'></a>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2019-03-22T14:59:22Z" name="AllTest" finished-at="2019-03-22T15:00:53Z" duration-ms="90647">
+    <groups>
+    </groups>
+    <test started-at="2019-03-22T14:59:22Z" name="LoginTest" finished-at="2019-03-22T14:59:44Z" duration-ms="22088">
+      <class name="com.uiFrameworkNew.companyName.projectName.testScripts.LoginTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.uiFrameworkNew.companyName.projectName.testScripts.LoginTest@537f60bf]" started-at="2019-03-22T14:59:22Z" name="beforeTest" finished-at="2019-03-22T14:59:33Z" duration-ms="10210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.uiFrameworkNew.companyName.projectName.testScripts.LoginTest@537f60bf]" started-at="2019-03-22T14:59:33Z" name="beforeClass" finished-at="2019-03-22T14:59:33Z" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.uiFrameworkNew.companyName.projectName.testScripts.LoginTest@537f60bf]" started-at="2019-03-22T14:59:33Z" name="beforeMethod" finished-at="2019-03-22T14:59:33Z" duration-ms="38" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.uiFrameworkNew.companyName.projectName.testScripts.LoginTest.testApplicationLogin()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testApplicationLogin()[pri:0, instance:com.uiFrameworkNew.companyName.projectName.testScripts.LoginTest@537f60bf]" started-at="2019-03-22T14:59:33Z" name="testApplicationLogin" description="Login to the application" finished-at="2019-03-22T14:59:43Z" duration-ms="10831" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_07_59_37.png'><img src='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_07_59_37.png'height='100' width='100'></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testApplicationLogin -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.uiFrameworkNew.companyName.projectName.testScripts.LoginTest@537f60bf]" started-at="2019-03-22T14:59:43Z" name="afterMethod" finished-at="2019-03-22T14:59:44Z" duration-ms="978" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testApplicationLogin status=SUCCESS method=LoginTest.testApplicationLogin()[pri:0, instance:com.uiFrameworkNew.companyName.projectName.testScripts.LoginTest@537f60bf] output=<a href='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_07_59_37.png'><img src='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_07_59_37.png'height='100' width='100'></a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.uiFrameworkNew.companyName.projectName.testScripts.LoginTest -->
+    </test> <!-- LoginTest -->
+    <test started-at="2019-03-22T14:59:45Z" name="RegistrationTest" finished-at="2019-03-22T15:00:09Z" duration-ms="24109">
+      <class name="com.uiFrameworkNew.companyName.projectName.testScripts.RegistrationTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.uiFrameworkNew.companyName.projectName.testScripts.RegistrationTest@54c5a2ff]" started-at="2019-03-22T14:59:45Z" name="beforeTest" finished-at="2019-03-22T14:59:48Z" duration-ms="3791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.uiFrameworkNew.companyName.projectName.testScripts.RegistrationTest@54c5a2ff]" started-at="2019-03-22T14:59:48Z" name="beforeClass" finished-at="2019-03-22T14:59:48Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="testLoginToApplication()[pri:0, instance:com.uiFrameworkNew.companyName.projectName.testScripts.RegistrationTest@54c5a2ff]" started-at="2019-03-22T14:59:48Z" name="testLoginToApplication" finished-at="2019-03-22T15:00:09Z" duration-ms="20148" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_07_59_57.png'><img src='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_07_59_57.png'height='100' width='100'></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLoginToApplication -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.uiFrameworkNew.companyName.projectName.testScripts.RegistrationTest@54c5a2ff]" started-at="2019-03-22T14:59:48Z" name="beforeMethod" finished-at="2019-03-22T14:59:48Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.uiFrameworkNew.companyName.projectName.testScripts.RegistrationTest.testLoginToApplication()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.uiFrameworkNew.companyName.projectName.testScripts.RegistrationTest@54c5a2ff]" started-at="2019-03-22T15:00:09Z" name="afterMethod" finished-at="2019-03-22T15:00:09Z" duration-ms="166" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLoginToApplication status=SUCCESS method=RegistrationTest.testLoginToApplication()[pri:0, instance:com.uiFrameworkNew.companyName.projectName.testScripts.RegistrationTest@54c5a2ff] output=<a href='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_07_59_57.png'><img src='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_07_59_57.png'height='100' width='100'></a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.uiFrameworkNew.companyName.projectName.testScripts.RegistrationTest -->
+    </test> <!-- RegistrationTest -->
+    <test started-at="2019-03-22T15:00:09Z" name="BasicShoppingTest" finished-at="2019-03-22T15:00:53Z" duration-ms="44153">
+      <class name="com.uiFrameworkNew.companyName.projectName.testScripts.BasicShoppingTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.uiFrameworkNew.companyName.projectName.testScripts.BasicShoppingTest@449a4f23]" started-at="2019-03-22T14:59:22Z" name="beforeSuite" finished-at="2019-03-22T14:59:22Z" duration-ms="676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.uiFrameworkNew.companyName.projectName.testScripts.BasicShoppingTest@449a4f23]" started-at="2019-03-22T15:00:09Z" name="beforeTest" finished-at="2019-03-22T15:00:13Z" duration-ms="4001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.uiFrameworkNew.companyName.projectName.testScripts.BasicShoppingTest@449a4f23]" started-at="2019-03-22T15:00:13Z" name="beforeClass" finished-at="2019-03-22T15:00:13Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.uiFrameworkNew.companyName.projectName.testScripts.BasicShoppingTest@449a4f23]" started-at="2019-03-22T15:00:13Z" name="beforeMethod" finished-at="2019-03-22T15:00:13Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.uiFrameworkNew.companyName.projectName.testScripts.BasicShoppingTest.testShoppingflow()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testShoppingflow()[pri:0, instance:com.uiFrameworkNew.companyName.projectName.testScripts.BasicShoppingTest@449a4f23]" started-at="2019-03-22T15:00:13Z" name="testShoppingflow" finished-at="2019-03-22T15:00:53Z" duration-ms="40044" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_23.png'><img src='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_23.png'height='100' width='100'></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_31.png'><img src='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_31.png'height='100' width='100'></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_35.png'><img src='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_35.png'height='100' width='100'></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_42.png'><img src='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_42.png'height='100' width='100'></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_45.png'><img src='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_45.png'height='100' width='100'></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_47.png'><img src='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_47.png'height='100' width='100'></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_49.png'><img src='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_49.png'height='100' width='100'></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_51.png'><img src='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_51.png'height='100' width='100'></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testShoppingflow -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.uiFrameworkNew.companyName.projectName.testScripts.BasicShoppingTest@449a4f23]" started-at="2019-03-22T15:00:53Z" name="afterMethod" finished-at="2019-03-22T15:00:53Z" duration-ms="102" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testShoppingflow status=SUCCESS method=BasicShoppingTest.testShoppingflow()[pri:0, instance:com.uiFrameworkNew.companyName.projectName.testScripts.BasicShoppingTest@449a4f23] output=<a href='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_23.png'><img src='C:\Users\Sreejith\eclipse-workspace\uiFrameworkNew\src\main\resources\ScreenShots\blank_22_03_2019_08_00_23.png'height='100' width='100'></a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.uiFrameworkNew.companyName.projectName.testScripts.BasicShoppingTest -->
+    </test> <!-- BasicShoppingTest -->
+  </suite> <!-- AllTest -->
+</testng-results>
